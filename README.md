@@ -1,6 +1,6 @@
 # Netflix Data Analysis
 
-This project analyzes Netflix Movies & TV Shows using Python and Jupyter Notebook.
+This project analyzes Netflix Movies & TV Shows using Python, Jupyter Notebook and the main perpose to do this project is get an idea to jupiter notebook.
 
 ## Features
 - Explore number of movies vs TV shows
